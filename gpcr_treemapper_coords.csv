@@ -1,0 +1,407 @@
+gene,gene_name,x,y,c
+ACKR1,atypical chemokine receptor 1 (Duffy blood group),0.8353048000000001,0.6193635000000001,0
+ACKR2,atypical chemokine receptor 2,0.8765944000000001,0.5855184999999999,0
+ACKR3,atypical chemokine receptor 3,0.8338880000000001,0.5752683,0
+ACKR4,atypical chemokine receptor 4,0.8717368000000001,0.6924686999999999,0
+ADCYAP1R1,ADCYAP receptor type I,0.2254736,0.7987420000000001,0
+ADGRA1,adhesion G protein-coupled receptor A1,0.3377044,0.6847327,0
+ADGRA2,adhesion G protein-coupled receptor A2,0.3623972,0.6520481,0
+ADGRA3,adhesion G protein-coupled receptor A3,0.3265724,0.6786405999999999,0
+ADGRB1,adhesion G protein-coupled receptor B1,0.2628164,0.7038793,0
+ADGRB2,adhesion G protein-coupled receptor B2,0.23802240000000002,0.757161,0
+ADGRB3,adhesion G protein-coupled receptor B3,0.23802240000000002,0.741689,0
+ADGRD1,adhesion G protein-coupled receptor D1,0.229218,0.7116153,0
+ADGRD2,adhesion G protein-coupled receptor D2,0.23346840000000002,0.7279576,0
+ADGRE1,adhesion G protein-coupled receptor E1,0.09735440000000001,0.6932423,0
+ADGRE2,adhesion G protein-coupled receptor E2,0.0800492,0.7591917,0
+ADGRE3,adhesion G protein-coupled receptor E3,0.057178,0.7327926,0
+ADGRE4P,"adhesion G protein-coupled receptor E4, pseudogene",0.0768108,0.7123889,0
+ADGRE5,adhesion G protein-coupled receptor E5,0.12791680000000002,0.6832822,0
+ADGRF1,adhesion G protein-coupled receptor F1,0.1662716,0.6282599,0
+ADGRF2,adhesion G protein-coupled receptor F2,0.09887240000000001,0.6600741999999999,0
+ADGRF3,adhesion G protein-coupled receptor F3,0.2525952,0.6273896,0
+ADGRF4,adhesion G protein-coupled receptor F4,0.0962412,0.641121,0
+ADGRF5,adhesion G protein-coupled receptor F5,0.20442400000000002,0.625649,0
+ADGRG1,adhesion G protein-coupled receptor G1,0.181654,0.5852284,0
+ADGRG2,adhesion G protein-coupled receptor G2,0.2511784,0.6073727,0
+ADGRG3,adhesion G protein-coupled receptor G3,0.2866996,0.5913204999999999,0
+ADGRG4,adhesion G protein-coupled receptor G4,0.222134,0.6133681,0
+ADGRG5,adhesion G protein-coupled receptor G5,0.1833744,0.5655015999999999,0
+ADGRG6,adhesion G protein-coupled receptor G6,0.27991920000000003,0.6107571999999999,0
+ADGRG7,adhesion G protein-coupled receptor G7,0.26818000000000003,0.5815537999999999,0
+ADGRL1,adhesion G protein-coupled receptor L1,0.10565279999999999,0.7752439,0
+ADGRL2,adhesion G protein-coupled receptor L2,0.12791680000000002,0.8270751,0
+ADGRL3,adhesion G protein-coupled receptor L3,0.10221200000000001,0.8044473,0
+ADGRL4,adhesion G protein-coupled receptor L4,0.1346972,0.7356936000000001,0
+ADGRV1,adhesion G protein-coupled receptor V1,0.42423039999999995,0.6291302000000001,0
+ADORA1,adenosine A1 receptor,0.40206759999999997,0.46319299999999997,1
+ADORA2A,adenosine A2a receptor,0.3874948,0.4443365,1
+ADORA2B,adenosine A2b receptor,0.3555156,0.4285744,0
+ADORA3,adenosine A3 receptor,0.4217004,0.4563273,0
+ADRA1A,adrenoceptor alpha 1A,0.36087919999999996,0.13025490000000003,0
+ADRA1B,adrenoceptor alpha 1B,0.33608520000000003,0.13189879999999995,0
+ADRA1D,adrenoceptor alpha 1D,0.3249532,0.14311600000000002,0
+ADRA2A,adrenoceptor alpha 2A,0.4095564,0.06972070000000005,0
+ADRA2B,adrenoceptor alpha 2B,0.4428512,0.11275220000000004,0
+ADRA2C,adrenoceptor alpha 2C,0.43090959999999995,0.052508100000000016,0
+ADRB1,adrenoceptor beta 1,0.3203992,0.20606769999999996,1
+ADRB2,adrenoceptor beta 2,0.3332516,0.18885510000000003,1
+ADRB3,adrenoceptor beta 3,0.364826,0.21641459999999998,0
+AGTR1,angiotensin II receptor type 1,0.8722428,0.5535108,1
+AGTR2,angiotensin II receptor type 2,0.8987572,0.5396827000000001,1
+APLNR,apelin receptor,0.8142552,0.5380388,1
+AVPR1A,arginine vasopressin receptor 1A,0.12386880000000002,0.4214186,0
+AVPR1B,arginine vasopressin receptor 1B,0.11789799999999999,0.3947294,0
+AVPR2,arginine vasopressin receptor 2,0.1668788,0.38070790000000004,0
+BDKRB1,bradykinin receptor B1,0.9116096,0.5044839,0
+BDKRB2,bradykinin receptor B2,0.9064484,0.5310764,0
+BRS3,bombesin receptor subtype 3,0.1896488,0.3637854,0
+C3AR1,complement C3a receptor 1,0.8372276000000001,0.48988219999999993,0
+C5AR1,complement C5a receptor 1,0.8577712000000001,0.46464350000000004,1
+C5AR2,complement component 5a receptor 2,0.8543304,0.45352299999999995,0
+CALCR,calcitonin receptor,0.41542599999999996,0.7580313,1
+CALCRL,calcitonin receptor like receptor,0.3871912,0.7735033,0
+CASR,calcium sensing receptor,0.4885936,0.7961311,0
+CCKAR,cholecystokinin A receptor,0.3080528,0.4890119,0
+CCKBR,cholecystokinin B receptor,0.2893308,0.49162279999999997,0
+CCR1,C-C motif chemokine receptor 1,0.970508,0.5949950999999999,0
+CCR10,C-C motif chemokine receptor 10,0.8128384000000001,0.6847327,0
+CCR2,C-C motif chemokine receptor 2,0.9551256000000001,0.5288522999999999,1
+CCR3,C-C motif chemokine receptor 3,0.9799196000000001,0.5777824999999999,0
+CCR4,C-C motif chemokine receptor 4,0.9414636000000001,0.6027311,0
+CCR5,C-C motif chemokine receptor 5 (gene/pseudogene),0.9687876000000001,0.5468385,1
+CCR6,C-C motif chemokine receptor 6,0.8862084,0.6795108999999999,0
+CCR7,C-C motif chemokine receptor 7,0.9278016000000001,0.6405408,0
+CCR8,C-C motif chemokine receptor 8,0.8799340000000001,0.6241985,0
+CCR9,C-C motif chemokine receptor 9,0.9354928,0.651758,1
+CCRL2,C-C motif chemokine receptor like 2,0.9372132000000001,0.6173328,0
+CELSR1,cadherin EGF LAG seven-pass G-type receptor 1,0.1739628,0.7666375999999999,0
+CELSR2,cadherin EGF LAG seven-pass G-type receptor 2,0.18853560000000003,0.7949707,0
+CELSR3,cadherin EGF LAG seven-pass G-type receptor 3,0.190256,0.7288279,0
+CHRM1,cholinergic receptor muscarinic 1,0.4829264,0.08606299999999997,1
+CHRM2,cholinergic receptor muscarinic 2,0.46248399999999995,0.015568700000000003,1
+CHRM3,cholinergic receptor muscarinic 3,0.4846468,0.038776700000000025,1
+CHRM4,cholinergic receptor muscarinic 4,0.43769,0.022434399999999997,1
+CHRM5,cholinergic receptor muscarinic 5,0.4983088,0.06546589999999998,0
+CMKLR1,chemerin chemokine-like receptor 1,0.8508896,0.4405652,0
+CNR1,cannabinoid receptor 1,0.32819159999999997,0.35846690000000003,1
+CNR2,cannabinoid receptor 2,0.3085588,0.38080460000000005,0
+CRHR1,corticotropin releasing hormone receptor 1,0.35389639999999994,0.764897,1
+CRHR2,corticotropin releasing hormone receptor 2,0.3684692,0.7855908,0
+CX3CR1,C-X3-C motif chemokine receptor 1,0.8927864,0.6164624999999999,0
+CXCR1,C-X-C motif chemokine receptor 1,0.9186936000000001,0.6761264,0
+CXCR2,C-X-C motif chemokine receptor 2,0.9177828,0.6898578,0
+CXCR3,C-X-C motif chemokine receptor 3,0.8606048000000001,0.7070704000000001,0
+CXCR4,C-X-C motif chemokine receptor 4,0.840972,0.6589138,1
+CXCR5,C-X-C motif chemokine receptor 5,0.838442,0.6958532,0
+CXCR6,C-X-C motif chemokine receptor 6,0.9229440000000001,0.6615247,0
+CYSLTR1,cysteinyl leukotriene receptor 1,0.6396852,0.22637469999999996,0
+CYSLTR2,cysteinyl leukotriene receptor 2,0.6268328000000001,0.22637469999999996,0
+DRD1,dopamine receptor D1,0.3887092,0.2318866,0
+DRD2,dopamine receptor D2,0.50853,0.11101160000000002,0
+DRD3,dopamine receptor D3,0.5179416,0.14108530000000002,1
+DRD4,dopamine receptor D4,0.5051903999999999,0.16516359999999994,1
+DRD5,dopamine receptor D5,0.40662159999999997,0.24648830000000002,0
+EDNRA,endothelin receptor type A,0.231242,0.3223011,0
+EDNRB,endothelin receptor type B,0.24571360000000003,0.3050885,1
+F2R,coagulation factor II thrombin receptor,0.6371552,0.31060040000000005,1
+F2RL1,F2R like trypsin receptor 1,0.6406972,0.29029340000000003,1
+F2RL2,coagulation factor II thrombin receptor like 2,0.6311844000000001,0.26843919999999993,0
+F2RL3,F2R like thrombin or trypsin receptor 3,0.620862,0.24523120000000004,0
+FFAR1,free fatty acid receptor 1,0.6252136,0.33322820000000003,1
+FFAR2,free fatty acid receptor 2,0.6149924,0.30837629999999994,0
+FFAR3,free fatty acid receptor 3,0.6090216,0.28768249999999995,0
+FFAR4,free fatty acid receptor 4,0.6338156,0.3487002,0
+FPR1,formyl peptide receptor 1,0.9466248,0.44578699999999993,0
+FPR2,formyl peptide receptor 2,0.9439936000000001,0.4173572,0
+FPR3,formyl peptide receptor 3,0.9235512000000001,0.4629029,0
+FSHR,follicle stimulating hormone receptor,0.8734572,0.39608319999999997,0
+FZD1,frizzled class receptor 1,0.6175224000000001,0.8909938,0
+FZD10,frizzled class receptor 10,0.6756112000000001,0.7669277,0
+FZD2,frizzled class receptor 2,0.6593180000000001,0.9090767000000001,0
+FZD3,frizzled class receptor 3,0.6781412,0.8635309999999999,0
+FZD4,frizzled class receptor 4,0.5944488,0.7526161,0
+FZD5,frizzled class receptor 5,0.7177104000000001,0.7888786,0
+FZD6,frizzled class receptor 6,0.7174068000000001,0.8228203,0
+FZD7,frizzled class receptor 7,0.6388756000000001,0.9210675,0
+FZD8,frizzled class receptor 8,0.7012148,0.7996122999999999,0
+FZD9,frizzled class receptor 9,0.6687296,0.7472009,0
+GABBR1,gamma-aminobutyric acid type B receptor subunit 1,0.547998,0.7314388,0
+GABBR2,gamma-aminobutyric acid type B receptor subunit 2,0.5497184,0.7717627,0
+GALR1,galanin receptor 1,0.6573952000000001,0.5812636999999999,0
+GALR2,galanin receptor 2,0.6921068,0.5795231,0
+GALR3,galanin receptor 3,0.6941308,0.5684026,0
+GCGR,glucagon receptor,0.309672,0.862564,1
+GHRHR,growth hormone releasing hormone receptor,0.2873068,0.7327926,0
+GHSR,growth hormone secretagogue receptor,0.378994,0.579233,0
+GIPR,gastric inhibitory polypeptide receptor,0.29722439999999994,0.8597597,0
+GLP1R,glucagon like peptide 1 receptor,0.281842,0.8666254,1
+GLP2R,glucagon like peptide 2 receptor,0.251988,0.876102,0
+GNRHR,gonadotropin releasing hormone receptor,0.1777072,0.44888139999999993,0
+GNRHR2,gonadotropin releasing hormone receptor 2 (pseudogene),0.1930896,0.4617425,0
+GPBAR1,G protein-coupled bile acid receptor 1,0.1350008,0.09041450000000002,0
+GPER1,G protein-coupled estrogen receptor 1,0.8282208,0.5872590999999999,0
+GPR1,G protein-coupled receptor 1,0.8219464000000001,0.45864810000000006,0
+GPR101,G protein-coupled receptor 101,0.7006076,0.42228889999999997,0
+GPR107,G protein-coupled receptor 107,0.41512239999999995,0.5628907000000001,0
+GPR108,G protein-coupled receptor 108,0.40743119999999994,0.5482889999999999,0
+GPR119,G protein-coupled receptor 119,0.5036724,0.42973480000000003,0
+GPR12,G protein-coupled receptor 12,0.3427644,0.37654979999999993,0
+GPR132,G protein-coupled receptor 132,0.6448464,0.14640379999999997,0
+GPR135,G protein-coupled receptor 135,0.2058408,0.17609070000000004,0
+GPR137,G protein-coupled receptor 137,0.46977040000000003,0.5182153,0
+GPR139,G protein-coupled receptor 139,0.156354,0.2165113,0
+GPR141,G protein-coupled receptor 141,0.21950280000000003,0.15723419999999996,0
+GPR142,G protein-coupled receptor 142,0.18276720000000002,0.21738159999999998,0
+GPR143,G protein-coupled receptor 143,0.4805988,0.5681125,0
+GPR146,G protein-coupled receptor 146,0.1888392,0.18643759999999995,0
+GPR148,G protein-coupled receptor 148,0.224664,0.13915130000000003,0
+GPR149,G protein-coupled receptor 149,0.2229436,0.12029479999999995,0
+GPR15,G protein-coupled receptor 15,0.84755,0.5139604999999999,0
+GPR150,G protein-coupled receptor 150,0.22436040000000002,0.43805099999999997,0
+GPR151,G protein-coupled receptor 151,0.2058408,0.0896409,0
+GPR152,G protein-coupled receptor 152,0.1888392,0.07929399999999996,0
+GPR153,G protein-coupled receptor 153,0.2468268,0.10511290000000001,0
+GPR156,G protein-coupled receptor 156,0.527252,0.6807679999999999,0
+GPR157,G protein-coupled receptor 157,0.4856588,0.5396827000000001,0
+GPR158,G protein-coupled receptor 158,0.47665199999999996,0.649824,0
+GPR160,G protein-coupled receptor 160,0.1708256,0.07668310000000003,0
+GPR161,G protein-coupled receptor 161,0.7022268,0.43689059999999996,0
+GPR162,G protein-coupled receptor 162,0.23316480000000003,0.08016429999999997,0
+GPR17,G protein-coupled receptor 17,0.6516268000000001,0.2281153,0
+GPR171,G protein-coupled receptor 171,0.6020388,0.34231799999999996,0
+GPR173,G protein-coupled receptor 173,0.567732,0.33525889999999997,0
+GPR174,G protein-coupled receptor 174,0.6798616000000001,0.30634559999999994,0
+GPR176,G protein-coupled receptor 176,0.1494724,0.08016429999999997,0
+GPR179,G protein-coupled receptor 179,0.478676,0.668197,0
+GPR18,G protein-coupled receptor 18,0.6646816000000001,0.4068168999999999,0
+GPR182,G protein-coupled receptor 182,0.84755,0.5640510999999999,0
+GPR183,G protein-coupled receptor 183,0.677534,0.4275107,0
+GPR19,G protein-coupled receptor 19,0.1196184,0.12222879999999996,0
+GPR20,G protein-coupled receptor 20,0.7296520000000001,0.2818805,0
+GPR21,G protein-coupled receptor 21,0.3715052,0.2965789,0
+GPR22,G protein-coupled receptor 22,0.1196184,0.14379290000000006,0
+GPR25,G protein-coupled receptor 25,0.8406684,0.5242107,0
+GPR26,G protein-coupled receptor 26,0.5779532000000001,0.4150364,0
+GPR27,G protein-coupled receptor 27,0.5625708,0.3662029,0
+GPR3,G protein-coupled receptor 3,0.32050039999999996,0.40662349999999997,0
+GPR31,G protein-coupled receptor 31,0.7151804,0.34376850000000003,0
+GPR32,G protein-coupled receptor 32,0.8987572,0.4835967,0
+GPR33,G protein-coupled receptor 33 (gene/pseudogene),0.8356084,0.44491669999999994,0
+GPR34,G protein-coupled receptor 34,0.6148912000000001,0.3672666,0
+GPR35,G protein-coupled receptor 35,0.7527256,0.2818805,0
+GPR37,G protein-coupled receptor 37,0.17224240000000002,0.3179496,0
+GPR37L1,G protein-coupled receptor 37 like 1,0.1842852,0.2964822,0
+GPR39,G protein-coupled receptor 39,0.3595636,0.5646313,0
+GPR4,G protein-coupled receptor 4,0.6602288000000001,0.17483359999999995,0
+GPR42,G protein-coupled receptor 42 (gene/pseudogene),0.6226836000000001,0.2885528,0
+GPR45,G protein-coupled receptor 45,0.11111760000000001,0.07929399999999996,0
+GPR50,G protein-coupled receptor 50,0.418462,0.3618514,0
+GPR52,G protein-coupled receptor 52,0.3655344,0.30856970000000006,0
+GPR55,G protein-coupled receptor 55,0.7535352000000001,0.30334789999999995,0
+GPR6,G protein-coupled receptor 6,0.31625000000000003,0.38941089999999995,0
+GPR61,G protein-coupled receptor 61,0.5839240000000001,0.3791607,0
+GPR62,G protein-coupled receptor 62,0.5916152,0.3886373,0
+GPR63,G protein-coupled receptor 63,0.0974556,0.10337229999999999,0
+GPR65,G protein-coupled receptor 65,0.6329048,0.14640379999999997,0
+GPR68,G protein-coupled receptor 68,0.6704500000000001,0.16013519999999998,0
+GPR75,G protein-coupled receptor 75,0.1281192,0.16439000000000004,0
+GPR78,G protein-coupled receptor 78,0.5642912,0.4424992,0
+GPR82,G protein-coupled receptor 82,0.677534,0.4102981,0
+GPR83,G protein-coupled receptor 83,0.27050759999999996,0.5242107,0
+GPR84,G protein-coupled receptor 84,0.140162,0.1781214,0
+GPR85,G protein-coupled receptor 85,0.5719824,0.34647609999999995,0
+GPR87,G protein-coupled receptor 87,0.5670236000000001,0.2623471,0
+GPR88,G protein-coupled receptor 88,0.1554432,0.18585740000000003,0
+GPRC5A,G protein-coupled receptor class C group 5 member A,0.45843599999999995,0.674966,0
+GPRC5B,G protein-coupled receptor class C group 5 member B,0.47665199999999996,0.722349,0
+GPRC5C,G protein-coupled receptor class C group 5 member C,0.46653199999999995,0.708811,0
+GPRC5D,G protein-coupled receptor class C group 5 member D,0.45742399999999994,0.690438,0
+GPRC6A,G protein-coupled receptor class C group 6 member A,0.5055952,0.814214,0
+GRM1,glutamate metabotropic receptor 1,0.49193319999999996,0.8445777999999999,1
+GRM2,glutamate metabotropic receptor 2,0.46066239999999997,0.9184566,0
+GRM3,glutamate metabotropic receptor 3,0.4708836,0.886739,0
+GRM4,glutamate metabotropic receptor 4,0.39407279999999995,0.8924443000000001,0
+GRM5,glutamate metabotropic receptor 5,0.479182,0.8565686,1
+GRM6,glutamate metabotropic receptor 6,0.36755839999999995,0.8692363,0
+GRM7,glutamate metabotropic receptor 7,0.4025736,0.9451458,0
+GRM8,glutamate metabotropic receptor 8,0.4435596,0.9425349,0
+GRPR,gastrin releasing peptide receptor,0.2030072,0.34028729999999996,0
+HCAR1,hydroxycarboxylic acid receptor 1,0.7527256,0.33680610000000005,0
+HCAR2,hydroxycarboxylic acid receptor 2,0.770638,0.32994039999999997,0
+HCAR3,hydroxycarboxylic acid receptor 3,0.7689176000000001,0.3119542,0
+HCRTR1,hypocretin receptor 1,0.2559348,0.470929,1
+HCRTR2,hypocretin receptor 2,0.2482436,0.48988219999999993,1
+HRH1,histamine receptor H1,0.487784,0.34386520000000004,1
+HRH2,histamine receptor H2,0.487784,0.32578229999999997,0
+HRH3,histamine receptor H3,0.47159199999999996,0.3000601,0
+HRH4,histamine receptor H4,0.501446,0.29232410000000003,0
+HTR1A,5-hydroxytryptamine receptor 1A,0.41279479999999996,0.12880439999999999,0
+HTR1B,5-hydroxytryptamine receptor 1B,0.3813216,0.04738300000000004,1
+HTR1D,5-hydroxytryptamine receptor 1D,0.36857039999999996,0.05685959999999996,0
+HTR1E,5-hydroxytryptamine receptor 1E,0.35227719999999996,0.09892409999999995,0
+HTR1F,5-hydroxytryptamine receptor 1F,0.3548072,0.07571610000000004,0
+HTR2A,5-hydroxytryptamine receptor 2A,0.35227719999999996,0.16284279999999998,0
+HTR2B,5-hydroxytryptamine receptor 2B,0.383042,0.18092570000000005,1
+HTR2C,5-hydroxytryptamine receptor 2C,0.338008,0.16555040000000001,0
+HTR4,5-hydroxytryptamine receptor 4,0.44770879999999996,0.27308079999999996,0
+HTR5A,5-hydroxytryptamine receptor 5A,0.4018652,0.16206919999999997,0
+HTR6,5-hydroxytryptamine receptor 6,0.4382972,0.24049290000000004,0
+HTR7,5-hydroxytryptamine receptor 7,0.383042,0.14572689999999994,0
+KISS1R,KISS1 receptor,0.6180284,0.5830042999999999,0
+LGR4,leucine rich repeat containing G protein-coupled receptor 4,0.8461332,0.3712313,0
+LGR5,leucine rich repeat containing G protein-coupled receptor 5,0.8555448000000001,0.32297799999999993,0
+LGR6,leucine rich repeat containing G protein-coupled receptor 6,0.8665756000000001,0.34280150000000004,0
+LHCGR,luteinizing hormone/choriogonadotropin receptor,0.8990608000000001,0.37974090000000005,0
+LPAR1,lysophosphatidic acid receptor 1,0.2821456,0.3069258,1
+LPAR2,lysophosphatidic acid receptor 2,0.31544039999999995,0.2826541,0
+LPAR3,lysophosphatidic acid receptor 3,0.28042520000000004,0.28797259999999997,0
+LPAR4,lysophosphatidic acid receptor 4,0.7552556000000001,0.23710839999999997,0
+LPAR5,lysophosphatidic acid receptor 5,0.7288424000000001,0.30160729999999997,0
+LPAR6,lysophosphatidic acid receptor 6,0.7365336,0.22521429999999998,1
+LTB4R,leukotriene B4 receptor,0.7971524000000001,0.47324979999999994,0
+LTB4R2,leukotriene B4 receptor 2,0.7817700000000001,0.47412009999999993,0
+MAS1,"MAS1 proto-oncogene, G protein-coupled receptor",0.7617324000000001,0.3573065,0
+MAS1L,"MAS1 proto-oncogene like, G protein-coupled receptor",0.7480704000000001,0.35904709999999995,0
+MC1R,melanocortin 1 receptor,0.3614864,0.3997578,0
+MC2R,melanocortin 2 receptor,0.3914416,0.3885406,0
+MC3R,melanocortin 3 receptor,0.33244199999999996,0.45603720000000003,0
+MC4R,melanocortin 4 receptor,0.32485200000000003,0.4224822999999999,0
+MC5R,melanocortin 5 receptor,0.31372,0.4456903,0
+MCHR1,melanin concentrating hormone receptor 1,0.638572,0.5571854,0
+MCHR2,melanin concentrating hormone receptor 2,0.6445428000000001,0.5443243,0
+MLNR,motilin receptor,0.3883044,0.5609567000000001,0
+MRGPRD,MAS related GPR family member D,0.8036292,0.37983760000000005,0
+MRGPRE,MAS related GPR family member E,0.7866276,0.3975337,0
+MRGPRF,MAS related GPR family member F,0.7752932,0.36600949999999993,0
+MRGPRG,MAS related GPR family member G,0.7825796,0.4103948,0
+MRGPRX1,MAS related GPR family member X1,0.8188092,0.30731259999999994,0
+MRGPRX2,MAS related GPR family member X2,0.8093976,0.35537250000000004,0
+MRGPRX3,MAS related GPR family member X3,0.8138504000000001,0.28110689999999994,0
+MRGPRX4,MAS related GPR family member X4,0.8028196,0.2673755,0
+MTNR1A,melatonin receptor 1A,0.37666639999999996,0.33864339999999993,0
+MTNR1B,melatonin receptor 1B,0.40226999999999996,0.34812,0
+NMBR,neuromedin B receptor,0.2482436,0.3840924,0
+NMUR1,neuromedin U receptor 1,0.3251556,0.5789429,0
+NMUR2,neuromedin U receptor 2,0.30491559999999995,0.5657916999999999,0
+NPBWR1,neuropeptides B and W receptor 1,0.6724740000000001,0.6187833,0
+NPBWR2,neuropeptides B and W receptor 2,0.6445428000000001,0.6308708,0
+NPFFR1,neuropeptide FF receptor 1,0.2004772,0.5053542,0
+NPFFR2,neuropeptide FF receptor 2,0.17487360000000002,0.4804056,0
+NPSR1,neuropeptide S receptor 1,0.2050312,0.3947294,0
+NPY1R,neuropeptide Y receptor Y1,0.25684559999999995,0.5678224,0
+NPY2R,neuropeptide Y receptor Y2,0.2436896,0.5468385,0
+NPY4R,neuropeptide Y receptor Y4,0.28042520000000004,0.5655015999999999,0
+NPY5R,neuropeptide Y receptor Y5,0.30440959999999995,0.5529305999999999,0
+NPY6R,neuropeptide Y receptor Y6 (pseudogene),0.23802240000000002,0.5600863999999999,0
+NTSR1,neurotensin receptor 1,0.34559799999999996,0.6047617999999999,1
+NTSR2,neurotensin receptor 2,0.3636116,0.5944149,0
+OPN1LW,"opsin 1, long wave sensitive",0.29297399999999996,0.23130639999999997,0
+OPN1MW,"opsin 1, medium wave sensitive",0.29722439999999994,0.2193156,0
+OPN1SW,"opsin 1, short wave sensitive",0.3377044,0.22859880000000005,0
+OPN3,opsin 3,0.3684692,0.25287049999999994,0
+OPN4,opsin 4,0.40682399999999996,0.28275079999999997,0
+OPN5,opsin 5,0.39407279999999995,0.28526500000000005,0
+OPRD1,opioid receptor delta 1,0.7337000000000001,0.5821339999999999,1
+OPRK1,opioid receptor kappa 1,0.7274256,0.6059222000000001,1
+OPRL1,opioid related nociceptin receptor 1,0.6974704,0.6119176000000001,1
+OPRM1,opioid receptor mu 1,0.7555592000000001,0.5955753,1
+OXER1,oxoeicosanoid receptor 1,0.7348132,0.3411576,0
+OXGR1,oxoglutarate receptor 1,0.7199368,0.21680139999999995,0
+OXTR,oxytocin receptor,0.1343936,0.38070790000000004,0
+P2RY1,purinergic receptor P2Y1,0.700304,0.2632174,1
+P2RY10,purinergic receptor P2Y10,0.6899816000000001,0.31311459999999997,0
+P2RY11,purinergic receptor P2Y11,0.6883624,0.2864254,0
+P2RY12,purinergic receptor P2Y12,0.5858468000000001,0.31311459999999997,1
+P2RY13,purinergic receptor P2Y13,0.5849360000000001,0.29590200000000005,0
+P2RY14,purinergic receptor P2Y14,0.5772448,0.25035630000000003,0
+P2RY2,purinergic receptor P2Y2,0.7036436,0.20132940000000005,0
+P2RY4,pyrimidinergic receptor P2Y4,0.6951428000000001,0.19446369999999993,0
+P2RY6,pyrimidinergic receptor P2Y6,0.6976728,0.22453739999999994,0
+P2RY8,purinergic receptor P2Y8,0.6414056,0.32520210000000005,0
+PRLHR,prolactin releasing hormone receptor,0.2599828,0.5399728,0
+PROKR1,prokineticin receptor 1,0.3350732,0.49162279999999997,0
+PROKR2,prokineticin receptor 2,0.35136639999999997,0.4932667,0
+PTAFR,platelet activating factor receptor,0.6763196,0.3285866,0
+PTGDR,prostaglandin D2 receptor,0.5548796,0.3137915,0
+PTGDR2,prostaglandin D2 receptor 2,0.8508896,0.5010027,0
+PTGER1,prostaglandin E receptor 1,0.5386876,0.2553847,0
+PTGER2,prostaglandin E receptor 2,0.5617612000000001,0.28806930000000003,0
+PTGER3,prostaglandin E receptor 3,0.5207752000000001,0.3197869,0
+PTGER4,prostaglandin E receptor 4,0.518144,0.36746,0
+PTGFR,prostaglandin F receptor,0.5215848,0.2613801,0
+PTGIR,prostaglandin I2 (prostacyclin) receptor (IP),0.5532604000000001,0.33187439999999996,0
+PTH1R,parathyroid hormone 1 receptor,0.3331504,0.8408064999999999,0
+PTH2R,parathyroid hormone 2 receptor,0.322828,0.8477689,0
+QRFPR,pyroglutamylated RFamide peptide receptor,0.6552700000000001,0.3956964,0
+RGR,retinal G protein coupled receptor,0.4236232,0.29667559999999993,0
+RHO,rhodopsin,0.3234352,0.23169320000000002,1
+RRH,retinal pigment epithelium-derived rhodopsin homolog,0.3851672,0.26050979999999996,0
+RXFP1,relaxin/insulin like family peptide receptor 1,0.8292328,0.40991130000000003,0
+RXFP2,relaxin/insulin like family peptide receptor 2,0.8198212,0.4210318,0
+RXFP3,relaxin/insulin like family peptide receptor 3,0.9525956,0.5015828999999999,0
+RXFP4,relaxin/insulin like family peptide receptor 4,0.9439936000000001,0.49065580000000003,0
+S1PR1,sphingosine-1-phosphate receptor 1,0.28538399999999997,0.3537286,1
+S1PR2,sphingosine-1-phosphate receptor 2,0.2896344,0.3416410999999999,0
+S1PR3,sphingosine-1-phosphate receptor 3,0.2964148,0.36746,0
+S1PR4,sphingosine-1-phosphate receptor 4,0.31716079999999996,0.324912,0
+S1PR5,sphingosine-1-phosphate receptor 5,0.2981352,0.32877999999999996,0
+SCTR,secretin receptor,0.281336,0.7517457999999999,0
+SMO,"smoothened, frizzled class receptor",0.566214,0.7044594999999999,1
+SSTR1,somatostatin receptor 1,0.7197344000000001,0.6479866999999999,0
+SSTR2,somatostatin receptor 2,0.7015184000000001,0.6783505,0
+SSTR3,somatostatin receptor 3,0.7376468,0.6832822,0
+SSTR4,somatostatin receptor 4,0.7324856,0.6342552999999999,0
+SSTR5,somatostatin receptor 5,0.7513088000000001,0.6703244,0
+SUCNR1,succinate receptor 1,0.7203416,0.23643150000000004,0
+TAAR1,trace amine associated receptor 1,0.4869744,0.23701169999999996,0
+TAAR2,trace amine associated receptor 2 (gene/pseudogene),0.4835336,0.21119280000000004,0
+TAAR3P,"trace amine associated receptor 3, pseudogene",0.45367959999999996,0.20007229999999998,0
+TAAR5,trace amine associated receptor 5,0.5031664,0.2662151,0
+TAAR6,trace amine associated receptor 6,0.5219896,0.18972540000000004,0
+TAAR8,trace amine associated receptor 8,0.5347408,0.2018129,0
+TAAR9,trace amine associated receptor 9 (gene/pseudogene),0.5219896,0.2241506,0
+TACR1,tachykinin receptor 1,0.1739628,0.5216965,0
+TACR2,tachykinin receptor 2,0.2372128,0.5233404,0
+TACR3,tachykinin receptor 3,0.1552408,0.5463549999999999,0
+TAS1R1,taste 1 receptor member 1,0.5636840000000001,0.8918640999999999,0
+TAS1R2,taste 1 receptor member 2,0.5209776,0.8588893999999999,0
+TAS1R3,taste 1 receptor member 3,0.5398008,0.9090767000000001,0
+TAS2R1,taste 2 receptor member 1,0.7354204,0.7815294,0
+TAS2R10,taste 2 receptor member 10,0.811624,0.7708924,0
+TAS2R13,taste 2 receptor member 13,0.7908780000000001,0.7514557,0
+TAS2R14,taste 2 receptor member 14,0.8105108000000001,0.7514557,0
+TAS2R16,taste 2 receptor member 16,0.6252136,0.7127757,0
+TAS2R19,taste 2 receptor member 19,0.8620216,0.7996122999999999,0
+TAS2R20,taste 2 receptor member 20,0.8979476000000001,0.7967112999999999,0
+TAS2R3,taste 2 receptor member 3,0.7593036000000001,0.7626729,0
+TAS2R30,taste 2 receptor member 30,0.8993644000000001,0.7626729,0
+TAS2R31,taste 2 receptor member 31,0.9209200000000001,0.7419791,0
+TAS2R38,taste 2 receptor member 38,0.7029352,0.7575478,0
+TAS2R39,taste 2 receptor member 39,0.7834904,0.7949707,0
+TAS2R4,taste 2 receptor member 4,0.6030508,0.6930489,0
+TAS2R40,taste 2 receptor member 40,0.7737752000000001,0.8108295,0
+TAS2R41,taste 2 receptor member 41,0.6602288000000001,0.7222523,0
+TAS2R42,taste 2 receptor member 42,0.7285388,0.7343398,0
+TAS2R43,taste 2 receptor member 43,0.927498,0.7273774,0
+TAS2R45,taste 2 receptor member 45,0.9012872000000001,0.7803689999999999,0
+TAS2R46,taste 2 receptor member 46,0.9028052,0.7489414999999999,0
+TAS2R5,taste 2 receptor member 5,0.6602288000000001,0.7093912,0
+TAS2R50,taste 2 receptor member 50,0.8329772000000001,0.7806590999999999,0
+TAS2R60,taste 2 receptor member 60,0.6457572,0.7282476999999999,0
+TAS2R7,taste 2 receptor member 7,0.8338880000000001,0.8242708,0
+TAS2R8,taste 2 receptor member 8,0.8099036000000001,0.8199193,0
+TAS2R9,taste 2 receptor member 9,0.8560508,0.8173083999999999,0
+TBXA2R,thromboxane A2 receptor,0.5344372000000001,0.2845881,0
+TPRA1,transmembrane protein adipocyte associated 1,0.45691799999999994,0.5216965,0
+TRHR,thyrotropin releasing hormone receptor,0.32171479999999997,0.5491593,0
+TSHR,thyroid stimulating hormone receptor,0.8759872000000001,0.36775009999999997,0
+UTS2R,urotensin 2 receptor,0.5762328,0.5443243,0
+VIPR1,vasoactive intestinal peptide receptor 1,0.2511784,0.7764042999999999,0
+VIPR2,vasoactive intestinal peptide receptor 2,0.24854720000000002,0.8330704999999999,0
+XCR1,X-C motif chemokine receptor 1,0.8791244,0.574398,0
+TMEM87A,transmembrane protein 87A,0.4384996,0.5390058,0
+TMEM87B,transmembrane protein 87B,0.4347552,0.5508999,0
+TMEM145,transmembrane protein 145,0.4228136,0.5182153,0
+GPR180,G protein-coupled receptor 180,0.44113079999999993,0.5166681,0
+GPR32P1,"G protein-coupled receptor 32, pseudogene 1",0.8879288000000001,0.4952974,0
